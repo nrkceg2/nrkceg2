@@ -5,5 +5,4 @@ would you like to sign my petition?
 i yeah
 
 ## kontakt
-<a href="mailto:gayquirrel@outlook.com">click here to email me thru a depricated link type! (github mail)</a><br>
 <a href="mailto:reallygayrat@gmail.com">click here to email me thru a depricated link type! (I'll see these)</a>
