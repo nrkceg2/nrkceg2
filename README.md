@@ -2,8 +2,16 @@
 would you like to sign my petition?
 
 ## what i do
-I help with friend's projects sometimes, I also sometimes make website/frontend things in HTML seeing as I don't know a lick of JavaScript.
-I also do design stuffs so if you need help with something, feel free to contact me, although I'm not qualified to be very good at design, I just know Photoshop and how to follow directions.
+I help with friend's projects sometimes.<br>I also make stupid crap in Python on occasion.
+
+## languages i know
+* Visual Basic 6 (those .vbs things)
+* Python (not very good at it, but i'm learning.)
+* HTML
+* CSS
+[disclaimer: im not knowledgeable on JS, I'm honestly better with Photoshop.]
+* a tiddlywink of Batch.
+* linux terminal
 
 ## kontakt
-<a href="mailto:plastocene82@gmail.com">click here to email me thru a depricated link type! (I'll see these)</a>
+<a href="mailto:sunoslegacy@gmail.com">click here to email me thru a depricated link type! (I'll see these)</a>
