@@ -14,4 +14,5 @@ I help with friend's projects sometimes.<br>I also make stupid crap in Python on
 * linux terminal
 
 ## kontakt
-<a href="mailto:sunoslegacy@gmail.com">click here to email me thru a depricated link type! (I'll see these)</a>
+<a href=https://nrkceg2.neocities.org/>This is my website. Click the email button at the top to email me.</a>
+<a href=https://nrkceg2.neocities.org/t520>my thinkpad t520 specs wooo</a>
